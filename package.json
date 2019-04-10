@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "name": "wetube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "learning youtube coding with heroku clouding",
+  "author": "bangcoder",
+  "license": "MIT"
+}
