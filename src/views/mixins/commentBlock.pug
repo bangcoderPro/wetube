@@ -1,0 +1,5 @@
+mixin commentBlock(comment)
+    .commentBlock
+        span=comment.text
+        if loggedUser && video.creator.id === loggedUser.id
+            button.commentDelete(value=comment.id) x
